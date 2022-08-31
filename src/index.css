@@ -1,0 +1,40 @@
+body {
+margin: 10rem 10rem;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+table{
+  margin: 1rem;
+  border: 1px solid;
+}
+
+tr{
+  border: solid 3px ;
+}
+
+td{
+  text-align: center;
+  width: 4rem;
+  height: 4rem;
+  border: solid 1px;
+  font-size: x-large;
+}
+
+button{
+  width: 7rem;
+  height: 3rem;
+  border: none;
+  border-radius: .5rem;
+  margin: 1rem;
+  font-size: x-large;
+}
+
+.active{
+  background-color: rgb(126, 221, 157);
+  color: rgb(2, 29, 16);
+  border: solid 2px rgb(2, 29, 16);
+}
